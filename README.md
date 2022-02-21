@@ -8,7 +8,7 @@ I achieved an accuracy of 83%, with f1 scores of 0.84 and 0.83 for the unhappy a
 
 The final model included 3 classifiers combined using weights in a soft Voting Classifier.
 
-Although the goals were achieved, some variation in the results will be observed for different random seeds (e.g., in train/test split). More consisten results may require a larger dataset.
+Although the goals were achieved, some variation in the results will be observed for different random seeds (e.g., in train/test split). More consistent results may require a larger dataset.
 
 
 C06v7wu6wOp0jh6C
